@@ -15,7 +15,7 @@
   <img src="https://img.shields.io/badge/Location-Russia-0A66C2?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Focus-Low--Level-0A66C2?style=for-the-badge" />
   <img
-src="http://img.shields.io/badge/Arch_Linux?logo=arch&style=for-the-badge" />
+src="http://img.shields.io/badge/Arch_Linux-blue?logo=arch&style=for-the-badge" />
 </div>
 
 ---
