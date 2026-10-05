@@ -33,6 +33,6 @@
 ---
 
 ## About me
-- **Lang**: C/C++, NASM, Python, HTML, CSS, learning Rust
-- **Tools**: GDB, CMeke, QEMU, Clang, GCC, other debug utils
+- **Lang**: C/C++, NASM, Python, HTML/CSS, learning Rust
+- **Tools**: GDB, CMake, QEMU, Clang, GCC, objdump, hexdump, dd, nvim
 - **Goals**: Learn CS and system development 
